@@ -1,4 +1,4 @@
-# Git Company Collaboration Lab
+# Git 多人协作实验室
 
 一个用于练习公司 Git 多人协作流程的 FastAPI 项目。
 
